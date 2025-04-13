@@ -15,4 +15,5 @@
 -Error Handling
 -Host your app on HTTPS
 -Tree shaking alogorithm - remove unuse code 
+-Different dev and prod bundles
 
